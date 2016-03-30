@@ -1,0 +1,16 @@
+[
+	{
+	    "brand": "Bugatti",
+	    "model": "Chiron",
+	    "cost": 1000000,
+	    "description": "This is the fastest production vehicle in the world.",
+	    "type": "Hyper Car"
+	},
+	{
+	    "brand": "Lamborghini",
+	    "model": "Huracan",
+	    "cost": 500000,
+	    "description": "This is the fastest production vehicle in the world.",
+	    "type": "Super Car"
+	}
+]
